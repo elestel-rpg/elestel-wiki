@@ -6,7 +6,7 @@
 **The GREAT Transmuto!, Fenius Orryn Lythandar Omenwaif Lexipwn Zeddicus Burrowblight Fairbairn Flameheart (GTFOLOLZBFF)**
 a.k.a. The GREAT Transmuto! (stage name)
 a.k.a. Fen (to his friends)
-a.k.a. Lex (his favorite alternate identity)
+a.k.a. The Amazing Max (his favorite alternate identity)
 a.k.a. Burrowblight (what he calls himself as penance for his "accidents")
 a.k.a. "Is Something Burning?"
 
