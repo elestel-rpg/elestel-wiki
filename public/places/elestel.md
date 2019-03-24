@@ -3,4 +3,4 @@
 
 # Elestel
 About the Planet of Elestel, where the campaign takes place
-![image](https://drive.google.com/file/d/1WeffvyFb3hq9hYSGaXTXND_nTgdsHuVk/view?usp=sharing)
+![Map of Elestel](https://drive.google.com/file/d/1WeffvyFb3hq9hYSGaXTXND_nTgdsHuVk/view?usp=sharing)
