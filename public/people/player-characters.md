@@ -3,8 +3,8 @@
 
 # Player Characters
 [Casira Sylrel](player-characters/casira-sylrel)
-[Fenius Flameheart](public/people/player-characters/fenius-flameheart)
-[Janith Stardust](public/people/player-characters/janith-stardust)
-[Leeroy Jenkins](public/people/player-characters/leeroy-jenkins)
-[Trixie](public/people/player-characters/trixie)
-[Uri Tahlomah](public/people/player-characters/uri-tahlomah)
+[Fenius Flameheart](player-characters/fenius-flameheart)
+[Janith Stardust](player-characters/janith-stardust)
+[Leeroy Jenkins](player-characters/leeroy-jenkins)
+[Trixie](player-characters/trixie)
+[Uri Tahlomah](player-characters/uri-tahlomah)
