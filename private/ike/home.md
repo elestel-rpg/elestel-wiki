@@ -6,3 +6,4 @@
 ### Fenius Flameheart
 [Description](characters/fenius/fenius-description)
 [Spell Points](characters/fenius/fenius-spell-points)
+[Demonologist](characters/fenius/fenius-demonologist)
