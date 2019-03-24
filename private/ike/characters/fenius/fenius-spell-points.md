@@ -4,9 +4,9 @@
 # Spell Points
 Fenius has the rare ability to pool his mystic power in a way that is more flexible than the average caster.  Instead of having his energies restricted to specified spell levels, he can mix and match his power between spell levels.
 
-| SPELL POINT COST |              |                         |
+| **SPELL POINT COST** |              |                         |
 |-----------------------|--------------|-------------------------|
-| Spell Level           | Point Cost   | Notes             |
+| **Spell Level**           | **Point Cost **  | **Notes**             |
 | lst                   | 2            |                         |
 | 2nd                   | 3            |                         |
 | 3rd                   | 5            |                         |
@@ -19,9 +19,9 @@ Fenius has the rare ability to pool his mystic power in a way that is more flexi
 
 
 
-| PELL POINTS BY LEVEL  |              |                         |
+| **PELL POINTS BY LEVEL**  |              |                         |
 |----------------------------------------|-----------|--------------------|
-| Class Level           | Spell Points | Max Spell Level         |
+| **Class Level**           | **Spell Points** | **Max Spell Level**         |
 | 1st                   | 4            | 1st                     |
 | 2nd                   | 6            | lst                     |
 | 3rd                   | 14           | 2nd                     |
