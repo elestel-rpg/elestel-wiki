@@ -8,4 +8,4 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 
 ### PCs
 
-### [NPCs](npcs)
+[NPCs](npcs)
