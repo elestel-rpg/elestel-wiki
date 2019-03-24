@@ -9,12 +9,15 @@
 [Balthazar](balthazar)
 [Delg Warbeard](delg-warbeard)
 [Deurrock Flintbeard](deurrock-flintbeard)
+[Delg Warbeard](delg-warbeard)
+[Deurrock Flintbeard](deurrock-flintbeard)
 [Drew Longshank](drew-longshank)
 [Elaelan Pexalim](elaelan-pexalim)
 [Fobrawynn Flatmane](fobrawynn-flatmane)
 [Fotios Aris](fotios-aris)
 [General Raddith](general-raddith)
-[Gilli GeneralJuventus Luppiter](gilli-general-juventus-luppiter)
+[Gilli Gan](gilli-gan)
+[Juventus Luppiter](juventus-luppiter)
 [Lua Maan](lua-maan)
 [Mac Fleetwood](mac-fleetwood)
 [Malik Torgar](malik-torgar)
@@ -47,7 +50,6 @@
 [Jaques Macleary](jaques-macleary)
 [Liri Keyfaren](liri-keyfaren)
 [Victor Pendersen](victor-pendersen)
-
 
 
 
