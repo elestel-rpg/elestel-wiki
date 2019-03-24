@@ -17,5 +17,5 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 **Flaws:**
 * Tends to get lost in contemplation of flickering flames, unless work or an emergency is afoot
 * Distrusts his own magic, due to past "accidents", making him prone to "finish the job" in a mundane fashion (for instance, by clubbing the dead bodies left by his magic)
- *Prone to ostentation
+ * Prone to ostentation
 * Given to megalomania when faced with enemies
