@@ -1,5 +1,5 @@
-<!-- TITLE: Fenius Description -->
-<!-- SUBTITLE: A quick summary of Fenius Description -->
+<!-- TITLE: Fenius' Description -->
+<!-- SUBTITLE: Profile of the Scoundrel Fenius Flameheart -->
 
 # Fenius Flameheart
 **The Great Transmuto, Fenius Orryn Lythandar Omenwaif Lexipwn Zeddicus Burrowblight Fairbairn Flameheart (GTFOLOLZBFF)**
