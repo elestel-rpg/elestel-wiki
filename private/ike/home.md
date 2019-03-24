@@ -3,4 +3,5 @@
 
 # Header
 ## Characters
-### [Fenius Flameheart](/characters/fenius/fenius-home)
+### Fenius Flameheart
+[Fenius Flameheart Description](/characters/fenius/fenius-description)
