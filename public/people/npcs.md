@@ -2,28 +2,38 @@
 <!-- SUBTITLE: A quick summary of NPCs -->
 
 # NPCs
+
+[Aberat](aberat)
 [Alilynn Darkeyes](alilynn-darkeyes)
 [Andramia Elsinire](andramia-elsinire)
 [Anthon Vasia](anthon-vasia)
 [Arlette Pendersen](arlette-pendersen)
+[Aryax](aryax)
 [Balthazar](balthazar)
+[Baz](baz)
 [Delg Warbeard](delg-warbeard)
 [Deurrock Flintbeard](deurrock-flintbeard)
-[Delg Warbeard](delg-warbeard)
-[Deurrock Flintbeard](deurrock-flintbeard)
+[Dia Lerimore](dia-lerimore)
+[Dratrin Imrac](dratrin-imrac)
 [Drew Longshank](drew-longshank)
 [Elaelan Pexalim](elaelan-pexalim)
 [Fobrawynn Flatmane](fobrawynn-flatmane)
 [Fotios Aris](fotios-aris)
+[Fyn Blacktree](fyn-blacktree)
 [General Raddith](general-raddith)
 [Gilli Gan](gilli-gan)
+[Henry](henry)
+[Hormash Pendersen](hormash-pendersen)
+[Ilezira](ilezira)
+[Jaques Macleary](jaques-macleary)
 [Juventus Luppiter](juventus-luppiter)
+[Liri Keyfaren](liri-keyfaren)
 [Lua Maan](lua-maan)
 [Mac Fleetwood](mac-fleetwood)
 [Malik Torgar](malik-torgar)
 [Melita Duris](melita-duris)
 [Marabeth Uthadar](marabeth-uthadar)
-[Niccolò Vasia](niccolò-vasia)
+[Niccolò Vasia](niccolo-vasia)
 [Panacorin](panacorin)
 [Pandon Gladdenston](pandon-gladdenston)
 [Petro](petro)
@@ -35,59 +45,7 @@
 [Theodore Longshank](theodore-longshank)
 [Tolmi The Magnificent](tolmi-the-magnificent)
 [Vaddon Ashworker](vaddon-ashworker)
+[Victor Pendersen](victor-pendersen)
 [Warrenus Uthadar](warrenus-uthadar)
 [Xintru](xintru)
 [Zariel](zariel)
-[Aberat](aberat)
-[Aryax](aryax)
-[Baz](baz)
-[Dia Lerimore](dia-lerimore)
-[Dratrin Imrac](dratrin-imrac)
-[Fyn Blacktree](fyn-blacktree)
-[Henry](henry)
-[Hormash Pendersen](hormash-pendersen)
-[Ilezira](ilezira)
-[Jaques Macleary](jaques-macleary)
-[Liri Keyfaren](liri-keyfaren)
-[Victor Pendersen](victor-pendersen)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
