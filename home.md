@@ -4,6 +4,9 @@
 # Elestel Wiki Home
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
+# Adventure Logs
+[Adventure Logs](public/logs/home)
+
 # People
 
 [PCs](public/people/player-characters)
