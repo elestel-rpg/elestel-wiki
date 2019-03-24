@@ -18,7 +18,10 @@ Fenius has the rare ability to pool his mystic power in a way that is more flexi
 | 8th                   | 11           |                         |
 | 9th                   | 13           |                         |
 |                       |              |                         |
+
+
 | PELL POINTS BY LEVEL  |              |                         |
+|----------------------------------------|-----------|--------------------|
 | Class Level           | Spell Points | Max Spell Level         |
 | 1st                   | 4            | 1st                     |
 | 2nd                   | 6            | lst                     |
