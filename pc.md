@@ -1,5 +1,5 @@
-<!-- TITLE: Pc -->
-<!-- SUBTITLE: A quick summary of Pc -->
+<!-- TITLE: Player Characters -->
+<!-- SUBTITLE: The characters currently owned by a player -->
 
-# Header
+# Player Characters
 [Casira Sylrel](casira-sylrel)
