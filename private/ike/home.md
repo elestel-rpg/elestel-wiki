@@ -4,4 +4,5 @@
 # Header
 ## Characters
 ### Fenius Flameheart
-[Fenius Flameheart Description](characters/fenius/fenius-description)
+[Description](characters/fenius/fenius-description)
+[Spell Points](characters/fenius/fenius-spell-points)
