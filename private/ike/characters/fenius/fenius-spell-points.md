@@ -6,7 +6,7 @@ Fenius has the rare ability to pool his mystic power in a way that is more flexi
 
 | SPELL POINT COST  |              |                         |
 |-----------------------|--------------|-------------------------|
-| **Spell Level**           |  **Point Cost **  | **Notes**             |
+| **Spell Level**           |  Point Cost  | **Notes**             |
 | lst                   | 2            |                         |
 | 2nd                   | 3            |                         |
 | 3rd                   | 5            |                         |
