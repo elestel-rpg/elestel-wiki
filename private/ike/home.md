@@ -3,4 +3,4 @@
 
 # Header
 ## Characters
-### Fenius Flameheart
+### [Fenius Flameheart](/characters/fenius/fenius-home)
