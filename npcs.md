@@ -4,6 +4,6 @@
 # NPCs
 [Alilynn Darkeyes](alilynn-darkeyes)
 [Andramia Elsinire](andramia-elsinire)
-[Anthon Vasia](alilynn-darkeyes)
-[Arlette Pendersen](alilynn-darkeyes)
-[Balthazar](alilynn-darkeyes)
+[Anthon Vasia](anthon-vasia)
+[Arlette Pendersen](arlette-pendersen)
+[Balthazar](balthazar)
