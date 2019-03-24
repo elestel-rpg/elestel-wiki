@@ -15,10 +15,10 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 ## Things
 
 ## Private Pages
-[Dungeon Master](private/dungeon-master)
-[Asher](private/asher)
-[Christina](private/christina)
-[Greg](private/greg)
-[Ike](private/ike)
-[James](private/james)
-[Margy](private/margy)
+[Dungeon Master](private/dungeon-master/home)
+[Asher](private/asher/home)
+[Christina](private/christina/home)
+[Greg](private/greg/home)
+[Ike](private/ike/home)
+[James](private/james/home)
+[Margy](private/margy/home)
