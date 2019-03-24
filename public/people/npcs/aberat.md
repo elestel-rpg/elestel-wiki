@@ -3,5 +3,4 @@
 
 # Aberat
 | Race | Elf |
-|-|-|
 | Gender | Male |
