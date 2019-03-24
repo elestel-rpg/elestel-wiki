@@ -4,4 +4,4 @@
 # Header
 ## Characters
 ### Fenius Flameheart
-[Fenius Flameheart Description](/characters/fenius/fenius-description)
+[Fenius Flameheart Description](characters/fenius/fenius-description)
