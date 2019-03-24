@@ -13,7 +13,7 @@ Fenius has the rare ability to pool his mystic power in a way that is more flexi
 | 3rd                   | 5            |                         |
 | 4th                   | 6            |                         |
 | 5th                   | 7            |                         |
-| 6th                   | 9            | 1 casting per long rest |
+| 6th                   | 9            | Only 1 casting per long rest for spell levels 6+|
 | 7th                   | 10           |                         |
 | 8th                   | 11           |                         |
 | 9th                   | 13           |                         |
