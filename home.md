@@ -4,17 +4,17 @@
 # Elestel Wiki Home
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
-## People
+# People
 
 [PCs](public/people/player-characters)
 
 [NPCs](public/people/npcs)
 
-## Places
+# Places
 
-## Things
+# Things
 
-## Private Pages
+# Private Pages
 [Dungeon Master](private/dungeon-master/home)
 [Asher](private/asher/home)
 [Christina](private/christina/home)
