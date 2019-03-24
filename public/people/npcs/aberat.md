@@ -2,5 +2,5 @@
 <!-- SUBTITLE: A quick summary of Aberat -->
 
 # Aberat
-| Race | Elf |
-| Gender | Male |
+**Race:** Elf
+**Gender:** Male
