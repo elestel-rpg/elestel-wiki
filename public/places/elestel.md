@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Elestel -->
 
 # Map of Elestel
-**The Knonw World**
+**The Known World**
 
 ![Map of Elestel](https://i.imgur.com/wlyfEDU.jpg)
 
