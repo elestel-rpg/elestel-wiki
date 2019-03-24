@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Dm -->
 
 # Off the Rails!
-** A Ball Of Fire, A Mysterious Stranger, A New Beginning
+**A Ball Of Fire, A Mysterious Stranger, A New Beginning**
 
 The investigation into the missing Mirabar delegation in the Sumber Hills was brought to an unexpected end when the party returned defeated to Red Larch only to learn that the surviving members of the Mirabar delegation have been found and the cults of elemental evil responsible for their disappearance had been defeated — by a different group of adventurers!
 
