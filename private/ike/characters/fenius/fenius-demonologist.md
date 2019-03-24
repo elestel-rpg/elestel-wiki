@@ -4,4 +4,4 @@
 # Demonologist
 **Bonus Languages:**  Demonic, Abyssal 
 **Proficiency:** saves vs. demons and fiends 
-**Bonus Spell:**  *Protection form Evil and Good
+**Bonus Spell:**  *Protection form Evil and Good*
