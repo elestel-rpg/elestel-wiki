@@ -6,6 +6,6 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 
 ## People
 
-### PCs
+[PCs](pc)
 
 [NPCs](npcs)
