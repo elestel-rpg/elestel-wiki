@@ -5,6 +5,5 @@
 About the Planet of Elestel, where the campaign takes place
 [Map of Elestel](https://drive.google.com/file/d/1WeffvyFb3hq9hYSGaXTXND_nTgdsHuVk/view?usp=sharing)
 
-[Elestel Map](https://flic.kr/p/TaFj7Q)
 
 
