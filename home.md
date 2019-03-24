@@ -15,7 +15,10 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 
 # Places
 [Elestel](http://elestel.eastus2.cloudapp.azure.com/public/places/elestel)
-# Things
+# Lore
+[The Pantheon of Elestel](public/lore/pantheon)
+
+# Beastiary
 
 # Private Pages
 [Dungeon Master](private/dungeon-master/home)
