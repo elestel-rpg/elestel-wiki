@@ -5,7 +5,7 @@
 
 [Aberat](aberat)
 [Alilynn Darkeyes](alilynn-darkeyes)
-[Andramia Elsinire](andramia-elsinire)
+[Andramia Elsinire](npcs/andramia-elsinire)
 [Anthon Vasia](anthon-vasia)
 [Arlette Pendersen](arlette-pendersen)
 [Aryax](aryax)
