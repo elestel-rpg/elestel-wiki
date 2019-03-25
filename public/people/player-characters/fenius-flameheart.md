@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of Fenius Flameheart -->
 
 # Fenius Flameheart, The GREAT Transmuto!
+![The GREAT Transmuto!](https://i.imgur.com/bkGHYzN.jpg)
 
 **The GREAT Transmuto!, Fenius Orryn Lythandar Omenwaif Lexipwn Zeddicus Burrowblight Fairbairn Flameheart (GTFOLOLZBFF)**
 a.k.a. The GREAT Transmuto! (stage name)
