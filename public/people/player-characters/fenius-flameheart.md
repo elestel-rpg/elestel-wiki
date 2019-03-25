@@ -57,6 +57,9 @@ Actions
 
 **Attack Restriction.** A familiar can't attack, but it can take other actions as normal.
 
+**Description.**
+The clockwork pseudodragon is a finely-crafted mechanical construct fashioned to mimic a pseudodragon in appearance. If a magic user so chooses, casting Find Familiar within 30 feet of an inanimate clockwork pseudodragon causes it to animate and become the caster's familiar as described in the spell. If the caster chooses a different type of familiar while being the master of an animated clockwork pseudodragon, it once again becomes inanimate, as the magical energy that powered it leaves. Thereafter, the spell functions as normal.
+
 ### Unseen Servant
 **Name:** Percy
 ### Humunculus
