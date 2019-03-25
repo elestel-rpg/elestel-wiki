@@ -1,8 +1,8 @@
 <!-- TITLE: Elestel -->
 <!-- SUBTITLE: The World & its Environs -->
 
-# Map of Elestel
-## The Known World
+# Elestel
+## Map of the Known World
 
 ![Imgur](https://i.imgur.com/wlyfEDU.jpg)
 
