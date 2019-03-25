@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The World & its Environs -->
 
 # Map of Elestel
-**The Known World**
+## The Known World
 
 ![Imgur](https://i.imgur.com/wlyfEDU.jpg)
 
