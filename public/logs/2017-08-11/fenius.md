@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Or a Bad Time on a Hard Donkey -->
 
 # To the Central Sea!
-**Or a Bad Time on a Hard Donkey**
 
 Drunken Trump Graycott hippogryphs Landow Pendle
 
