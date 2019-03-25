@@ -1,5 +1,5 @@
 <!-- TITLE: Elestel -->
-<!-- SUBTITLE: A quick summary of Elestel -->
+<!-- SUBTITLE: The World & its Environs -->
 
 # Map of Elestel
 **The Known World**
