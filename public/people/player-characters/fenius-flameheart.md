@@ -32,11 +32,12 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 
 ## Companions
 ### Familiar
-Name: Gasket
-Tiny fey (Clockwork Pseudodragon), unaligned
-Armor Class11
-Hit Points2(1d4-1)
-Speed5 ft., fly 60 ft.
+**Name:** Gasket
+*Tiny fey (Clockwork Pseudodragon), unaligned*
+**Armor Class** 11
+**Hit Points** 2(1d4-1)
+**Speed** 5 ft., fly 60 ft.
+
 STR | DEX | CON | INT | WIS | CHA |
 |-------|--------|---------|-------|--------|--------|
 3(-4) | 13(+1) | 8(-1) | 2(-4) | 12(+1) | 7(-2)
