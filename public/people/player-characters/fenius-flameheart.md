@@ -63,5 +63,7 @@ The clockwork pseudodragon is a finely-crafted mechanical construct fashioned to
 
 ### Unseen Servant
 **Name:** Percy
+### Phantom Steed
+**Name:** Nightmare
 ### Humunculus
 Not yet created
