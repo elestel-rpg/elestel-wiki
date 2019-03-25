@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Ike's Characters -->
+<!-- SUBTITLE: Compiled Info on Characters -->
 
 # Header
 ## Characters
