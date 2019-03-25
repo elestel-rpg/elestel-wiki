@@ -19,6 +19,7 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 # Lore
 [Pantheon](public/lore/pantheon)
 [Astrology](public/lore/astrology)
+[Calendar](public/lore/calendar)
 
 # Beastiary
 
