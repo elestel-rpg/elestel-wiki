@@ -8,7 +8,7 @@
 
 
 ## Regions
-## City States & Towns
+## Settlements
 ## Places of Power
 
 
