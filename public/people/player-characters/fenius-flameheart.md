@@ -46,7 +46,7 @@ STR | DEX | CON | INT | WIS | CHA |
 
 **Skills** Stealth +3, Perception +3
 **Senses** Darkvision 120 ft., Passive Perception 13
-**Languages ** --
+**Languages** --
 **Challenge** 0 (10 XP)
 
 **Flyby.** The clockwork pseudodragon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
