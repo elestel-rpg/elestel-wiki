@@ -1,7 +1,7 @@
 <!-- TITLE: Elestel Wiki Home -->
 <!-- SUBTITLE: The root page of the Elestel Wiki -->
 
-![Elestel Banner](https://i.imgur.com/DMQfQiN.jpg)
+![Wiki Banner](https://i.imgur.com/2VEPwjG.jpg)
 # Elestel Wiki Home
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
