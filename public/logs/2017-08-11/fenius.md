@@ -1,12 +1,12 @@
-<!-- TITLE: Fenius -->
-<!-- SUBTITLE: A quick summary of Fenius -->
+<!-- TITLE: To the Central Sea! -->
+<!-- SUBTITLE: Or a Bad Time on a Hard Donkey -->
 
 # To the Central Sea!
 **Or a Bad Time on a Hard Donkey**
 
 Drunken Trump Graycott hippogryphs Landow Pendle
 
-*The Chronicles of Chaos, Week the Second*
+***The Chronicles of Chaos, Week the Second***
 
 Related by,
 The Great Transmuto!, Fenius Orryn Lythandar Omenwaif Lexipwn Zeddicus Burrowblight Fairbairn Flameheart (GTFOLOLZBFF) Esquire
