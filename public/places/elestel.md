@@ -7,4 +7,8 @@
 ![Imgur](https://i.imgur.com/wlyfEDU.jpg)
 
 
+## Regions
+## Settlements
+## Places of Power
+
 
