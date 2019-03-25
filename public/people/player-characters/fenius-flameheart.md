@@ -49,7 +49,7 @@ STR | DEX | CON | INT | WIS | CHA |
 **Languages ** --
 **Challenge** 0 (10 XP)
 
-**Flyby. ** The clockwork pseudodragon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+**Flyby.** The clockwork pseudodragon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **Keen Hearing and Sight.** The clockwork pseudodragon has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
