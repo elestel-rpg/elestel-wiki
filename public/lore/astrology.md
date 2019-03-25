@@ -2,35 +2,35 @@
 <!-- SUBTITLE: The Meaning in the Stars -->
 
 # Elestel Astrology
-Astrology and the Elestel Lunar Calendar
+**Astrology and the Elestel Lunar Calendar**
 
 Elestel’s lunar calendar is the chief mechanism behind its astrological system. Elestel has twelve months in its year, each named after a god of Elestel, while the Turn marks the beginning of the year. The Turn is seen as the time of change between the favored moons and the ill moons, and is marked by a festival in honor of the Unnamed.
 
-Favored Moons
-Spring
+## Favored Moons
+**Spring**
 
     Akilos’ Moon Favors the industrious
     Pixesis’ Moon Favors communion with the dead
     Vomera’s Moon Favors battle
 
-Summer
+**Summer**
 
     Phaneos’ Moon Favors resilience
     Xenne’s Moon Favors fortune tellers
     Quzah’s Moon Favors navigation and leadership
 
-The Turn
+**The Turn**
 
     Celebration of the new year, travel, return from journeys, chance, and new beginnings in honor of the Unnamed
 
-Ill Moons
-Autumn
+## Ill Moons
+**Autumn**
 
     Feror’s Moon Portends confusion and loss
     Siflene’s Moon Portends tyranny
     Richimes’ Moon Portends vengeance
 
-Winter
+**Winter**
 
     Marais’ Moon Portends conspiracy
     Haremes’ Moon Portends chaos and hunger
