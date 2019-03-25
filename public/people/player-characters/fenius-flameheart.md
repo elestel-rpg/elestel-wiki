@@ -22,6 +22,7 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 * Sometimes the dead *combe back!* -- so you have to give them a good clubbing.
 * If you aren't working the marks you *are* the mark.
 * Friends and family are sacred. Protect them. The rest can burn. Especially if the flames make pretty colors. And flames *always* make pretty colors.
+* All humanoids are equal in the shadow of the Unseen -- except the dirty goblinoids!
 
 ## Flaws
 * Tends to get lost in contemplation of flickering flames, unless work or an emergency is afoot
