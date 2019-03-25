@@ -17,8 +17,8 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 # Places
 [Elestel](public/places/elestel)
 # Lore
-[The Pantheon of Elestel](public/lore/pantheon)
-[The Astrology of Elestel](public/lore/astrology)
+[Pantheon](public/lore/pantheon)
+[Astrology](public/lore/astrology)
 
 # Beastiary
 
