@@ -1,6 +1,10 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+
+## September 2nd 2017
+[Land Ho!](2017-09-02/fenius)
+
 ## August 11th 2017
 [To the Central Sea! (Fenius)](2017-08-11/fenius)
 
