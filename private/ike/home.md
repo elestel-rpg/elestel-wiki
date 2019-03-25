@@ -1,4 +1,4 @@
-<!-- TITLE: Ike's Characters -->
+<!-- TITLE: Ike's Character Notes -->
 <!-- SUBTITLE: Compiled Info on Characters -->
 
 # Header
