@@ -29,3 +29,42 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 * Distrusts his own magic, due to past "accidents", making him prone to "finish the job" in a mundane fashion (for instance, by clubbing the dead bodies left by his magic)
  * Prone to ostentation
 * Given to megalomania when faced with enemies
+
+## Companions
+### Familiar
+Name: Gasket
+Tiny fey (Clockwork Pseudodragon), unaligned
+Armor Class11
+Hit Points2(1d4-1)
+Speed5 ft., fly 60 ft.
+STR | DEX | CON | INT | WIS | CHA |
+|-------|--------|---------|-------|--------|--------|
+3(-4) | 13(+1) | 8(-1) | 2(-4) | 12(+1) | 7(-2)
+
+
+
+
+
+
+
+
+
+
+SkillsStealth +3, Perception +3
+SensesDarkvision 120 ft., Passive Perception 13
+Languages --
+Challenge0 (10 XP)
+
+Flyby. The clockwork pseudodragon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
+Keen Hearing and Sight. The clockwork pseudodragon has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
+Familiar. In combat, a familiar rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal. When a familiar drops to 0 hit points, it disappears, leaving behind no physical form.
+Actions
+
+Attack Restriction. A familiar can't attack, but it can take other actions as normal.
+
+### Unseen Servant
+Name: Percy
+### Humunculus
+Not yet created
