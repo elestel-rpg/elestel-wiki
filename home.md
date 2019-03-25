@@ -14,8 +14,7 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 [NPCs](public/people/npcs)
 
 # Places
-## Elestel
-[Map](httpom/public/places/elestel)
+[Elestel](http://elestel.eastus2.cloudapp.azure.com/public/places/elestel)
 # Lore
 [The Pantheon of Elestel](public/lore/pantheon)
 
