@@ -15,7 +15,7 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 
 # Places
 ## Elestel
-[Map](httpom/publipublic/places/elestel)
+[Map](httpom/public/places/elestel)
 # Lore
 [The Pantheon of Elestel](public/lore/pantheon)
 
