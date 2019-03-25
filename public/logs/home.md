@@ -2,6 +2,9 @@
 
 # Adventure Logs
 
+## September 29th 2017
+[Suspicious Hags! (Fenius)](2017-09-29/fenius)
+
 ## September 2nd 2017
 [Land Ho! (Fenius)](2017-09-02/fenius)
 
