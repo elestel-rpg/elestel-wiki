@@ -4,7 +4,7 @@
 # Map of Elestel
 **The Known World**
 
-![Map of Elestel](https://i.imgur.com/wlyfEDU.jpg)
+![Map of Elestel](https://imgur.com/wlyfEDU)
 
 
 
