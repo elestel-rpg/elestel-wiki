@@ -6,22 +6,22 @@ Fenius has the rare ability to pool his mystic power in a way that is more flexi
 
 | SPELL POINT COST  |              |                         |
 |-----------------------|--------------|-------------------------|
-| **Spell Level**           |  **Point Cost**  | **Notes**             |
+| **Spell Level**  |  **Point Cost**  | **Notes**  |
 | lst                   | 2            |                         |
 | 2nd                   | 3            |                         |
 | 3rd                   | 5            |                         |
 | 4th                   | 6            |                         |
 | 5th                   | 7            |                         |
-| 6th                   | 9            | Only 1 casting per long rest for each spell level of 6+|
+| 6th                   | 9            | 1 casting/long rest for spell levels 6+|
 | 7th                   | 10           |                         |
 | 8th                   | 11           |                         |
 | 9th                   | 13           |                         |
 
 
 
-|  PELL POINTS BY LEVEL  |              |                         |
-|----------------------------------------|-----------|--------------------|
-| **Class Level**           | **Spell Points** | **Max Spell Level**         |
+|  PELL POINTS BY LEVEL  |              |           |
+|-------------------------------------|-----------|-------------|
+| **Class Level**           | **Spell Points** | **Max Spell Level** |
 | 1st                   | 4            | 1st                     |
 | 2nd                   | 6            | lst                     |
 | 3rd                   | 14           | 2nd                     |
