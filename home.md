@@ -5,6 +5,11 @@
 # Elestel Wiki Home
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
+# Standards
+This is a place to propose or state naming conventions and other sundry policies to help keep the wiki in well-organized for archivnig and searching.
+
+[Proposed Standards](public/standards)
+
 # Adventure Logs
 [Adventure Logs](public/logs/home)
 [Session Notes](public/session)
