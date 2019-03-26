@@ -1,8 +1,9 @@
 <!-- TITLE: Uri Tahlomah -->
 <!-- SUBTITLE:  Noble Warrior-->
-### Brief Description
+## Brief Description
 A man of middle years. Clean shaven and dark haired, skin darkened from time spend on the road and outdoors now has coppery tone to it. The eyes, solid brass sphere, speak of knowledge greater than that of a common traveler. 
 
+## History (Work in Progress)
 ### Transformation
 A man in appearance, what lies beneath is the knowledge, history, drive and heart of the noblest beings on Elestel; a dragon. Uri has been trapped in the form of a human for over 400 years and is currently working on understanding the transformation. What he currently understands is that at some point toward the end of the last great war he volunteered to be used in a ritual to seal the Lord of Avernus,  Archdevil Zariel, away from the prime material plane. The result of the spell was the creation of physical seals and his seemingly permanent transformation into a human. Due to an event that happened shortly after the tansformation, Uri has found his memories around that time scrambled or lost, including why he was stuck in the form of a human.
 
