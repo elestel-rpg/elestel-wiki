@@ -1,6 +1,9 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## December 8th 2017
+[Basilisks! (Fenius)](2017-12-8/fenius)
+
 ## November 9th 2017
 [The Descent into Demrim (Uri)](2017-11-09/uri)
 
