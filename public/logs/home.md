@@ -2,6 +2,9 @@
 
 # Adventure Logs
 
+## October 14th 2017
+[Text Data Log From Acting Captain Stardust (Stardust)](2017-10-14/stardust)
+
 ## September 29th 2017
 [Suspicious Hags! (Fenius)](2017-09-29/fenius)
 
