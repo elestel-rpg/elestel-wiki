@@ -1,6 +1,8 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## November 9th 2017
+[The Descent into Demrim (Uri)](2017-11-09/uri)
 
 ## October 14th 2017
 [Text Data Log From Acting Captain Stardust (Stardust)](2017-10-14/stardust)
