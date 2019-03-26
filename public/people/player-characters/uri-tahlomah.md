@@ -10,7 +10,7 @@ A man in appearance, what lies beneath is the knowledge, history, drive and hear
 ### Youth
 Grew up in a cave around 5 other dragons in his clutch. His brohters Gojira, Merrod, and Ke'syr'ess and sisters Ramoth and Kisara.
 
-Uri remembers hunting with his siblings. Working as a team to get game for awhile until they got bigger. He remembers taking care of Kisara as she was the smallest, making sure she was cared for and had plenty to eat. As he got older he wandering around settlements in disguise and making off with little trinkets or artifacts of little consequence. Often spending long periods of time with the street kids, helping them secretly using his superior abilities
+Uri remembers hunting with his siblings. Working as a team to get game for awhile until they got bigger. He remembers taking care of Kisara as she was the smallest, making sure she was cared for and had plenty to eat. As he got older he wandered around settlements in disguise, making off with little trinkets or artifacts of little consequence. He often spent long periods of time with the street kids, listening to their stories, and helping them secretly using his superior abilities
 
 ### The Great War
 During the last great war Uri joined the the army of the Golden General along with his siblings and other Metallic Dragons. Due to his inexpereince with combat and his kinds natural shape changing abilities Uri was assigned to work as an infiltrator, to go behind enemy lines and gather intelligence and return it to the army. During this time he was partnered with a young wood elf by the name of Gilli Gan.
