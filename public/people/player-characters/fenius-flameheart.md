@@ -23,7 +23,7 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 * The long-lived races are actually "vitality thieves", siphoning life and vigor from the shorter-lived races. Some do this naturally and are unaware of the effect, and some have attained this power through the practicing of the Dark Arts. Therefore, the secret to their long lives is within the grasp of the canny sage.
 * Sometimes the dead *combe back!* -- so you have to give them a good clubbing.
 * Friends and family are sacred. Protect them. The rest can burn. Especially if the flames make pretty colors. And flames *always* make pretty colors.
-* All humanoids are equal in the shadow of the Unseen -- except the dirty goblinoids!
+* All humanoids are equal in the shadow of the Unseen -- except those filthy goblinoids!
 
 ## Flaws
 * Tends to get lost in contemplation of flickering flames, unless work or an emergency is afoot
