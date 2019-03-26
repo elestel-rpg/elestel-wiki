@@ -7,6 +7,7 @@ Welcome to the Elestel Wiki. I think this is a better experience than obsidian p
 
 # Adventure Logs
 [Adventure Logs](public/logs/home)
+[Session Notes](public/session)
 
 # People
 
