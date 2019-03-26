@@ -1,5 +1,5 @@
 <!-- TITLE: Basilisks! -->
-<!-- SUBTITLE: basilisk Dimrim restricted Vaddon Ashworker -->
+<!-- SUBTITLE: Or How to Resist the Urge to Purge* -->
 
 # Basilisks
 ***Or How to Resist the Urge to Purge***
@@ -43,3 +43,5 @@ And then we were confronted with that laborious half-wit, Willum the elf, a Libr
 However, just before my wrath boiled over, Uri showed up to vouch for our admittance. In a shocking display of mental dotage, Willum gave into the old warrior’s commands! I reminded him via obvious gesticulation that I’d been right all along about the power of the token I bore and made sure in no uncertain terms that the wretched elf knew he’d been the fool, for I, The Great Transmuto!, had declared the value of said token. And who was he to gainsay such credit?! Outlandish!
 
 Needless to say, the old fool spent his time bothering us at our research, looking over our shoulders the whole time. One day, the Unnamed will grant me the true power of changeling touch, and Willum may well find that his days as a man-shaped forest frolicker may be adjusted to fit his true inner-self: a toad.
+
+TAGS: basilisk Dimrim restricted Vaddon Ashworker
