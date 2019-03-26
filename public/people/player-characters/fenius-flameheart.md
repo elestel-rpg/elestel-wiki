@@ -4,6 +4,8 @@
 # Fenius Flameheart, The GREAT Transmuto!
 ![The GREAT Transmuto!](https://i.imgur.com/bkGHYzN.jpg)
 
+## Player
+Ike, A.K.A. rockhazard
 ## Names
 
 **The GREAT Transmuto!, Fenius Orryn Lythandar Omenwaif Lexipwn Zeddicus Burrowblight Fairbairn Flameheart (GTFOLOLZBFF)**
