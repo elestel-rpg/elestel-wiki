@@ -6,6 +6,9 @@ A man of middle years. Clean shaven and dark haired, skin darkened from time spe
 A man in appearance, what lies beneath is the knowledge, history, drive and heart of the noblest beings on Elestel; a dragon. Uri has been trapped in the form of a human for over 400 years and is currently working on understanding the transformation. 
 
 ## History (Work in Progress)
+### Youth
+Grew up in a cave around 5 other dragons in his clutch
+
 ### The Great War
 During the last great war Uri joined the the army of the Golden General along with his siblings and other Metallic Dragons. DUe to his inexpereince with combat and his kinds natural shape changing abilities Uri was assigned to work as an infiltrator, to go behind enemy lines and gather intelligence and return it to the army. During this time he was partnered with a young wood elf by the name of Gilli Gan.
 
