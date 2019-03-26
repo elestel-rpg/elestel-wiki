@@ -39,26 +39,9 @@ Transmuto was raised by a small gnome family until the age of 10, when his power
 **Hit Points** 2(1d4-1)
 **Speed** 5 ft., fly 60 ft.
 
-<table>
-  <tr>
-    <th>STR</th>
-    <th>DEX</th>
-    <th>CON</th>
-    <th>INT</th>
-    <th>WIS</th>
-    <th>CHA</th>
-  </tr>
-  <tr>
-    <td>3(-4)</td>
-    <td>13(+1)</td>
-    <td>8(-1)</td>
-    <td>2(-4)</td>
-    <td>12(+1)</td>
-    <td>7(-2)</td>
-  </tr>
-</table>
-
-
+STR | DEX | CON | INT | WIS | CHA |
+|-------|--------|---------|-------|--------|--------|
+3(-4) | 13(+1) | 8(-1) | 2(-4) | 12(+1) | 7(-2)
 
 
 **Skills** Stealth +3, Perception +3
