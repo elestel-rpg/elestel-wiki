@@ -3,9 +3,14 @@
 ## Brief Description
 A man of middle years. Clean shaven and dark haired, skin darkened from time spend on the road and outdoors now has coppery tone to it. The eyes, solid brass sphere, speak of knowledge greater than that of a common traveler. 
 
+A man in appearance, what lies beneath is the knowledge, history, drive and heart of the noblest beings on Elestel; a dragon. Uri has been trapped in the form of a human for over 400 years and is currently working on understanding the transformation. 
+
 ## History (Work in Progress)
+### The Great War
+During the last great war Uri joined the the army of the Golden General along with his siblings and other Metallic Dragons. DUe to his inexpereince with combat and his kinds natural shape changing abilities Uri was assigned to work as an infiltrator, to go behind enemy lines and gather intelligence and return it to the army. During this time he was partnered with a young wood elf by the name of Gilli Gan.
+
 ### Transformation
-A man in appearance, what lies beneath is the knowledge, history, drive and heart of the noblest beings on Elestel; a dragon. Uri has been trapped in the form of a human for over 400 years and is currently working on understanding the transformation. What he currently understands is that at some point toward the end of the last great war he volunteered to be used in a ritual to seal the Lord of Avernus,  Archdevil Zariel, away from the prime material plane. The result of the spell was the creation of physical seals and his seemingly permanent transformation into a human. Due to an event that happened shortly after the tansformation, Uri has found his memories around that time scrambled or lost, including why he was stuck in the form of a human.
+What Uri currently understands is that at some point toward the end of the last great war he volunteered to be used in a ritual to seal the Lord of Avernus, Archdevil Zariel, away from the prime material plane. The result of the spell was the creation of physical seals and his seemingly permanent transformation into a human. Due to an event that happened shortly after the tansformation, Uri has found his memories around that time scrambled or lost, including why he was stuck in the form of a human.
 
 ### Post Transformation
 After Uri's memories were scrambled he spent a period of about 50 or so years learning to live in non-draconic society in Maelhaven. First begging then gaining work doing manual labor. Ultimately taking on work in the city watch and then as a private guard in the Gilded City for a minor elven Noble family. This is where people began to notice he was not aging. At this time Uri made the decision to attempt to disguise his more than human nature. Fortunately he had made an acquaintance with individuals at the monastery during his time as a poor laborer. He had been called on to do  work at the Monastery during the construction of an addition to their complex and Uri was able to talk with some members of the Monastery. Ultimately he befriended certain members of Tabhor Monastery.
