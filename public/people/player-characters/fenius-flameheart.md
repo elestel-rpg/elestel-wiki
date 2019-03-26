@@ -68,5 +68,5 @@ The clockwork pseudodragon is a finely-crafted mechanical construct fashioned to
 ### Major Image
 **Name:** Eyesoar
 Illusory Beholder witha ring of talons for an iris.
-### Humunculus
+### Homunculus
 Not yet created
