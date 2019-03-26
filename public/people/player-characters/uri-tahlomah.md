@@ -8,10 +8,12 @@ A man in appearance, what lies beneath is the knowledge, history, drive and hear
 
 ## History (Work in Progress)
 ### Youth
-Grew up in a cave around 5 other dragons in his clutch
+Grew up in a cave around 5 other dragons in his clutch. His brohters Gojira, Merrod, and Ke'syr'ess and sisters Ramoth and Kisara.
+
+Uri remembers hunting with his siblings. Working as a team to get game for awhile until they got bigger. He remembers taking care of Kisara as she was the smallest, making sure she was cared for and had plenty to eat. As he got older he wandering around settlements in disguise and making off with little trinkets or artifacts of little consequence. Often spending long periods of time with the street kids, helping them secretly using his superior abilities
 
 ### The Great War
-During the last great war Uri joined the the army of the Golden General along with his siblings and other Metallic Dragons. DUe to his inexpereince with combat and his kinds natural shape changing abilities Uri was assigned to work as an infiltrator, to go behind enemy lines and gather intelligence and return it to the army. During this time he was partnered with a young wood elf by the name of Gilli Gan.
+During the last great war Uri joined the the army of the Golden General along with his siblings and other Metallic Dragons. Due to his inexpereince with combat and his kinds natural shape changing abilities Uri was assigned to work as an infiltrator, to go behind enemy lines and gather intelligence and return it to the army. During this time he was partnered with a young wood elf by the name of Gilli Gan.
 
 ### Transformation
 What Uri currently understands is that at some point toward the end of the last great war he volunteered to be used in a ritual to seal the Lord of Avernus, Archdevil Zariel, away from the prime material plane. The result of the spell was the creation of physical seals and his seemingly permanent transformation into a human. Due to an event that happened shortly after the tansformation, Uri has found his memories around that time scrambled or lost, including why he was stuck in the form of a human.
