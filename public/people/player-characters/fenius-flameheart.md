@@ -44,26 +44,6 @@ STR | DEX | CON | INT | WIS | CHA |
 3(-4) | 13(+1) | 8(-1) | 2(-4) | 12(+1) | 7(-2)
 
 
-html table
-<table>
-  <tr>
-    <th>STR</th>
-    <th>DEX</th>
-    <th>CON</th>
-    <th>INT</th>
-    <th>WIS</th>
-    <th>CHA</th>
-  </tr>
-  <tr>
-    <td>3(-4)</td>
-    <td>13(+1)</td>
-    <td>8(-1)</td>
-    <td>2(-4)</td>
-    <td>12(+1)</td>
-    <td>7(-2)</td>
-  </tr>
-</table>
-
 **Skills** Stealth +3, Perception +3
 **Senses** Darkvision 120 ft., Passive Perception 13
 **Languages** --
