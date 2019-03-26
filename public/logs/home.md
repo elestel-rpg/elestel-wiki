@@ -1,6 +1,9 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## January 5th 2018
+[Ambush! (Fenius)](2018-01-05/fenius)
+
 ## December 8th 2017
 [Basilisks! (Fenius)](2017-12-8/fenius)
 
