@@ -1,9 +1,8 @@
 <!-- TITLE: Ike's Character Notes -->
 <!-- SUBTITLE: Compiled Info on Characters -->
 
-# Header
-## Characters
-### Fenius Flameheart
+# Characters
+## Fenius Flameheart
 #### Session Notes
 [2019/03/23](characters/fenius/fenius-notes-2019-03-23)
 #### Personal Lore
