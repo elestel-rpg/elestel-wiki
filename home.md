@@ -12,7 +12,7 @@ This is a place to propose or state naming conventions and other sundry policies
 
 # Adventure Logs
 [Adventure Logs](public/logs/home)
-[Session Notes](public/session)
+[Session Notes](public/session-notes)
 
 # People
 
