@@ -9,6 +9,8 @@
 
 ## Regions
 [Shattered Edge Mountains](regions/shattered-edge-mountains)
+[Sea of Arcanis](regions/sea-of-arcanis)
+
 ## Settlements
 ## Places of Power
 
