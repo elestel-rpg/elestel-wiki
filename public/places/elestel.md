@@ -15,7 +15,7 @@
 ## Settlements
 [Maelhaven](settlements/maelhaven)
 * [The University](settlements/university)
-* [Tabohr Monastery]((settlements/tabohr_monastery)
+* [The University](settlements/university)
 ## Places of Power
 
 
