@@ -1,5 +1,5 @@
-<!-- TITLE: University -->
-<!-- SUBTITLE: A quick summary of University -->
+<!-- TITLE: The University -->
+<!-- SUBTITLE: A quick summary of The University -->
 
 # The University
 
