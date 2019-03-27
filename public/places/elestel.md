@@ -14,6 +14,7 @@
 
 ## Settlements
 [Maelhaven](settlements/maelhaven)
+* [The University](settlements/university)
 ## Places of Power
 
 
