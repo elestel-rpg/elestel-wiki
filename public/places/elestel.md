@@ -13,6 +13,7 @@
 * [Valwynne](regions/valwynne)
 
 ## Settlements
+[Maelhaven](settlements/maelhaven)
 ## Places of Power
 
 
