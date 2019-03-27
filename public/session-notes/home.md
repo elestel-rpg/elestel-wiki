@@ -2,6 +2,6 @@
 <!-- SUBTITLE: A quick summary of Session Notes -->
 
 # Session Notes
+For each session, only one page should be created and linked below to hold the party notes.
 
-## March 23th 2019
-[Ambush! (Fenius)](session-notes/2019-03-23)
+* [March 23th 2019](session-notes/2019-03-23)
