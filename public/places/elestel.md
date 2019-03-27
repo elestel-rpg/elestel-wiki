@@ -8,6 +8,7 @@
 
 
 ## Regions
+[Shattered Edge Mountains](regions/shattered-edge-mountains)
 ## Settlements
 ## Places of Power
 
