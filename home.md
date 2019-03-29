@@ -29,7 +29,8 @@ This is a place to propose or state naming conventions and other sundry policies
 [Artifacts](public/lore/artifacts)
 
 # Organizations
-[Celestial Salvage Company](public/lore/csc)
+[Celestial Salvage Company](public/organizations/csc)
+[This Shadow Council](public/organizations/shadow-council)
 
 # Beastiary
 
