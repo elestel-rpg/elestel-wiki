@@ -1,8 +1,10 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## February 3rd 2018
+[From Ship to Sea! (Fenius)](2018-02-03/fenius)
 ## January 31th 2018
-[Return to Maelhaven](2018-01-31/uri)
+[Return to Maelhaven (Uri)](2018-01-31/uri)
 
 ## January 5th 2018
 [Ambush! (Fenius)](2018-01-05/fenius)
