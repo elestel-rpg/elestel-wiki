@@ -26,8 +26,11 @@ This is a place to propose or state naming conventions and other sundry policies
 [Pantheon](public/lore/pantheon)
 [Astrology](public/lore/astrology)
 [Calendar](public/lore/calendar)
-[Celestial Salvage Company](public/lore/csc)
 [Artifacts](public/lore/artifacts)
+
+# Organizations
+[Celestial Salvage Company](public/lore/csc)
+
 # Beastiary
 
 # Private Pages
