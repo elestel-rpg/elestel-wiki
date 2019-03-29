@@ -7,7 +7,9 @@
 
 ## Goals
 
-## Origins & Exploits
+## Origins
+
+## Exploits
 
 ## Members
 * Captain Janith Stardust
