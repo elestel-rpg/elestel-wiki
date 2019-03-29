@@ -11,7 +11,7 @@
 
 ## Exploits
 
-## Formal Members
+## Founding Members
 * Captain Janith Stardust
 * Uri Tahlomah
 * The GREAT Transmuto!
