@@ -1,8 +1,8 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
-## January 29th 2018
-[Return to Maelhaven](2018-01-29/uri)
+## January 31th 2018
+[Return to Maelhaven](2018-01-31/uri)
 
 ## January 5th 2018
 [Ambush! (Fenius)](2018-01-05/fenius)
