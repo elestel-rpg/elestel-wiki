@@ -11,7 +11,7 @@
 
 ## Exploits
 
-## Members
+## Formal Members
 * Captain Janith Stardust
 * Uri Tahlomah
 * The GREAT Transmuto!
