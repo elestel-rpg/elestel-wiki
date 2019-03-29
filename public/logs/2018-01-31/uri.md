@@ -3,7 +3,7 @@
 
 # Return to Maelhaven
 
-Upon Returning to Maelhaven after Researching in the Restricted Sections
+**Upon Returning to Maelhaven after Researching in the Restricted Sections**
 Well it seems that the Library had more than they realized on Demrim, we were just missing a number of pieces to put it all together, like the Amulet. What Fenius, Leeroy and I found should keep the Archivists busy for some time trying to piece together the larger picture. They’d be farther along if that pompous Willum had assisted rather than standing their watching Fenius (I don’t think anyone was surprised he tried to make off with a few tomes).
 Not surprisingly it appears that the rest of our compatriots are still out, probably making fools of themselves. What is surprising is that Andri is actually not in her office. I’ll leave her to rest and track her down in the morning.
 
