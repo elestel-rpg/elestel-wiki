@@ -12,8 +12,8 @@
 ## Members
 * Captain Janith Stardust
 * Uri Tahlomah
-* Fenius Flameheart
-* Leeroy Jenkins
+* The GREAT Transmuto!
+* Arch Bishop Leeroy Jenkins
 
 ## Affiliated Adventurers
 * Trixie
