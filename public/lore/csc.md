@@ -6,6 +6,7 @@
 ![csc logo](https://i.imgur.com/hbBTqDe.png)
 
 ## Goals
+* The retrieval of Captain Stardust's lost cargo containers which are strewn throughout Elestel.
 
 ## Origins
 
