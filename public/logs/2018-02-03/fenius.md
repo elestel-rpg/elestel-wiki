@@ -1,9 +1,9 @@
 <!-- TITLE: From Ship to Sea! -->
 <!-- SUBTITLE: Or how to train your pet beholder -->
 
+    beholder Carric crate Eyesoar orcs
 # From Ship to Sea!
 
-    beholder Carric crate Eyesoar orcs
 
 
 *The Chronicles of Chaos*
