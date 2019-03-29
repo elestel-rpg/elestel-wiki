@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A group of intrepid souls brought together in the spirit of larceny. -->
 
 # Celestial Salvage Company
-A.K.A. Celistial Salvage Crew/Consortium/Corporation/Cabal/Concern/Collective
+A.K.A. Celestial Salvage Crew/Consortium/Corporation/Cabal/Concern/Collective
 ## Sigil
 ![csc logo](https://i.imgur.com/hbBTqDe.png)
 
