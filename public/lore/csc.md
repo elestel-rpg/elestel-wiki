@@ -9,7 +9,10 @@
 
 ## Origins
 
-## Exploits
+## Notable Exploits
+* Demrim research team rescue
+* Draakhorn retrieval mission
+* Gnome free [mission to free gnome captives from a group of goblins]
 
 ## Founding Members
 * Captain Janith Stardust
