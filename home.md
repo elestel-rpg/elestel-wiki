@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A World-Building Project -->
 
 ![Wiki Banner](https://i.imgur.com/2VEPwjG.jpg)
-# The Elestel Wiki
+# Introduction
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
 # Standards
