@@ -9,32 +9,32 @@ Elestel’s lunar calendar is the chief mechanism behind its astrological system
 ## Favored Moons
 **Spring**
 
-* **Akilos’** Moon Favors the industrious
-* **Pixesis’** Moon Favors communion with the dead
-* **Vomera’s** Moon Favors battle
+* **Akilos’ Moon** Favors the industrious
+* **Pixesis’ Moon** Favors communion with the dead
+* **Vomera’s Moon** Favors battle
 
 **Summer**
 
-* **Phaneos’** Moon Favors resilience
-* **Xenne’s** Moon Favors fortune tellers
-* **Quzah’s** Moon Favors navigation and leadership
+* **Phaneos’ Moon** Favors resilience
+* **Xenne’s Moon** Favors fortune tellers
+* **Quzah’s Moon** Favors navigation and leadership
 
 ## The Turn
 
-* **Celebration** of the new year, travel, return from journeys, chance, and new beginnings in honor of the Unnamed
+* Celebration of the new year, travel, return from journeys, chance, and new beginnings in honor of the Unnamed
 
 ## Ill Moons
 **Autumn**
 
-* **Feror’s** Moon Portends confusion and loss
-* **Siflene’s** Moon Portends tyranny
-* **Richimes’** Moon Portends vengeance
+* **Feror’s Moon** Portends confusion and loss
+* **Siflene’s Moon** Portends tyranny
+* **Richimes’ Moon** Portends vengeance
 
 **Winter**
 
-* **Marais’** Moon Portends conspiracy
-* **Haremes’** Moon Portends chaos and hunger
-* **Phesia’s** Moon Portends ruin
+* **Marais’ Moon** Portends conspiracy
+* **Haremes’ Moon** Portends chaos and hunger
+* **Phesia’s Moon** Portends ruin
 
 There is a five percent chance that creatures will either gain advantage or disadvantage on a roll concerning some action (DM’s choice) in favor or opposition to the nature of the current month on the first day of that month. For instance, a battle executed on the first day of Vomera’s Moon might confer advantage on the planners’ insight rolls concerning the battle to come. For this reason, campaigns of conquest are often launched on the first day of Vomera’s Moon — in secret, to avoid enemies cancelling out one’s luck through planning.
 
