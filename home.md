@@ -32,6 +32,7 @@ This is a place to propose or state naming conventions and other sundry policies
 # Organizations
 [Celestial Salvage Company](public/organizations/csc)
 [This Shadow Council](public/organizations/shadow-council)
+[The Feathergale Society](public/organizations/feathergale-society)
 
 # Beastiary
 
