@@ -1,6 +1,9 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## March 9th 2018
+[The Calm Before the Storm (Stardust) ](2018-03-09/stardust)
+
 ## February 16th 2018
 [A Horny Lady! (Fenius)](2018-02-16/fenius)
 
