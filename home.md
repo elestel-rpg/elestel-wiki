@@ -6,7 +6,7 @@
 Welcome to the Elestel Wiki. I think this is a better experience than obsidian portal if all we're doing is wiki stuff. We could move our adventure log here too. Thoughts?
 
 # Standards
-This is a place to propose or state naming conventions and other sundry policies to help keep the wiki well-organized for ease of management, editing, archivnig and searching. Things like always using the same date format for links and deciding how to label images can really help make things easier for contributors in the future.
+This is a place to propose or state naming conventions and other sundry policies to help keep the wiki well-organized for ease of management, editing, archivnig and searching. 
 
 [Proposed Standards](public/standards)
 
