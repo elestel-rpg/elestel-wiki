@@ -8,7 +8,7 @@
 [The Result of a Fool's Decision (Uri)](2018-06-09/uri)
 
 ## March 15h 2018
-[Between a Master and an Apprentice](2018-03-15) *author unknown* 
+[Between a Master and an Apprentice (Uri)](2018-03-15/uri)
 
 ## March 9th 2018
 [The Calm Before the Storm (Stardust) ](2018-03-09/stardust)
