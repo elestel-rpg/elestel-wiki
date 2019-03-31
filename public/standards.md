@@ -1,5 +1,5 @@
 <!-- TITLE: Standards -->
-<!-- SUBTITLE: A quick summary of Standards -->
+<!-- SUBTITLE: Help keep the wiki organized! -->
 
 # Wiki Standards
 
