@@ -1,8 +1,12 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## March 15h 2018
+*author unknown* [Between a Master and an Apprentice](2018-03-15)
+
 ## March 9th 2018
 [The Calm Before the Storm (Stardust) ](2018-03-09/stardust)
+[Forays in Egley (Uri) ](2018-03-09/uri)
 
 ## February 16th 2018
 [A Horny Lady! (Fenius)](2018-02-16/fenius)
