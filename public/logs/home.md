@@ -1,6 +1,9 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## January 28th 2019
+[A letter "home" (Casira)](2019-01-28/casira)
+
 ## June 9th 2018
 [The Result of a Fool's Decision (Uri)](2018-06-09/uri)
 
