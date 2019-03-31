@@ -1,6 +1,9 @@
 <!-- TITLE: Adventure Logs -->
 
 # Adventure Logs
+## June 9th 2018
+[The Result of a Fool's Decision (Uri)](2018-06-09/uri)
+
 ## March 15h 2018
 [Between a Master and an Apprentice](2018-03-15) *author unknown* 
 
