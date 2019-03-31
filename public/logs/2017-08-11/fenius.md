@@ -3,7 +3,7 @@
 
 # To the Central Sea!
 
-> Drunken Trump Graycott hippogryphs Landow Pendle
+> Drunken Trump Graycott hippogryphs hippogriffs Landow Pendle
 
 ***The Chronicles of Chaos, Week the Second***
 
