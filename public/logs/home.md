@@ -2,7 +2,7 @@
 
 # Adventure Logs
 ## March 15h 2018
-*author unknown* [Between a Master and an Apprentice](2018-03-15)
+[Between a Master and an Apprentice](2018-03-15) *author unknown* 
 
 ## March 9th 2018
 [The Calm Before the Storm (Stardust) ](2018-03-09/stardust)
