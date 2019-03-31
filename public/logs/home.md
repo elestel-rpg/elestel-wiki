@@ -1,6 +1,6 @@
 <!-- TITLE: Adventure Logs -->
 
-# Adventure Logs
+# Off the Rails!
 ## January 28th 2019
 [A letter "home" (Casira)](2019-01-28/casira)
 
