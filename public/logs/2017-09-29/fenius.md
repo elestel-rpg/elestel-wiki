@@ -6,7 +6,7 @@
 
 
 
-    Delg Demrim Fubar Research Team
+>    Delg Demrim Fubar Research Team
 
 ***The Chronicles of Chaos, Week the Third***
 
