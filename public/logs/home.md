@@ -1,6 +1,7 @@
 <!-- TITLE: Adventure Logs -->
 
 # Off the Rails!
+Adventure Summary: https://www.dndbeyond.com/campaigns/16353
 ## January 28th 2019
 [A letter "home" (Casira)](2019-01-28/casira)
 
