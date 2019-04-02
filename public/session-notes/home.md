@@ -7,6 +7,7 @@ Where the Adventure Log is a narative-focused record of party travels, these are
 ## Off the Rails!
 
 * [March 23rd 2019](2019-03-23)
+* [March 9th 2019](2019-03-09)
 * [February 9th 2019](2019-02-09)
 * [January 26th 2019](2019-01-26)
 * [January 12th 2019](2019-01-12)
