@@ -22,6 +22,7 @@ This is a place to propose or state naming conventions and other sundry policies
 
 # Places
 [Elestel](public/places/elestel)
+[The Arcadia](public/places/arcadia)
 # Lore
 [Pantheon](public/lore/pantheon)
 [Astrology](public/lore/astrology)
