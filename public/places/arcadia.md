@@ -1,7 +1,7 @@
-<!-- TITLE: The Arcadia -->
+<!-- TITLE: The Starship Arcadia -->
 <!-- SUBTITLE: A Celestial Conveyance -->
 
-# The Arcadia
+# The Starship Arcadia
 ## History
 ## Crew
 ## Capabilities
