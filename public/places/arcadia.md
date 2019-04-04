@@ -1,5 +1,5 @@
-<!-- TITLE: Arcadia -->
-<!-- SUBTITLE: A quick summary of the Arcadia -->
+<!-- TITLE: The Arcadia -->
+<!-- SUBTITLE: A Celestial Conveyance -->
 
 # The Arcadia
 ## History
