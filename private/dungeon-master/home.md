@@ -44,7 +44,7 @@ As the seals weaken, Elaelan can sense his Mistress getting closer to completing
 * When he heard about Demrim, he sought out the Lich who had been defeated there and recruited him to sow his own brand of chaos in exchange for power.
 
 
-### The Lich of Demrim
+## The Lich of Demrim
 Having been defeated by the CSC in Demrim and then again at the ancient battlefield where he raised his second undead army, Vaddon Ashworker now has a personal grudge against the CSC. He has yet to prepare his vengeance.
 
 ## The Shadow Council and the Shadow Resistance
