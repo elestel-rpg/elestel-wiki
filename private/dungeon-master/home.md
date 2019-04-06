@@ -5,7 +5,7 @@
 # Plots
 
 ## The Vengeance of Lua Maan / [DEMON]
-The minds of Lua Maan and the Demon <span style="background-color: red; color: white;">**[NAME]**</span> has been twisted by his near-death and his unual demonic possession.
+The minds of Lua Maan and the Demon <span style="background-color: red; color: text-color: red;">**[NAME]**</span> has been twisted by his near-death and his unual demonic possession.
 
 ## Order of Vomera and the Search for Archbishop Leeroy Jenkins
 
