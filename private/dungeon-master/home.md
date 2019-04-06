@@ -5,4 +5,4 @@
 
 ## Plots
 
-### Lua Maan / <DEMON>
+### Lua Maan / [DEMON] 
