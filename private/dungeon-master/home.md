@@ -29,6 +29,8 @@ Three containers remain undiscovered and unrecovered:
 * One crashed east of the Shattered Edge Mountains in the dangerous wilderness north of the Dwarven Empire.
 * One crashed deep in the ocean west of the the Northern Continent. It is most likely unrecoverable and few (if anyone) know it even happened.  
 
+The surviving pirate crew of the Arcadia, knowing how their ship and the escape pods worked, activated their escape pod beacons which coordinated their decent into the atmosphere of Elestel. In their controlled decent, unfortunately, they passed over a convergience of leylines in the southern ocean which flooded their systems with wild magic energies, frying the sensitive circuits. They crashed near the shore of the large southern island where they have struggled to survive. Are they in over there heads or are they stirring up trouble? 
+
 ## The Machinations of Elaelan Pexalim and the Cult of Zariel
 After his betrayal and murder of the Senior Arcanum, Elaelan has kept a low profile, believing his efforts to free Zariel will be better executed if those who may know is allegiences can't stand against him. He has spent 500 years:
 * Searching for the Seals holding back Zariel. He doesn't know about Uri's role or involvement in the creation of the Seals.
