@@ -49,3 +49,8 @@ Having been defeated by the CSC in Demrim and then again at the ancient battlefi
 
 ## The Shadow Council and the Shadow Resistance
 The are dumb idiots who will likely play a part again in our story, ignorant of the bad state of the world and thinking their situation is critical when it's just not.  
+
+## Arlette Penderson and Tolmi The Magnificent
+The CSC met these two members of a small merchant caravan at the oasis that contained the entrance to Uri's draconic lair. After parting ways, the caravan was assaulted by demons, ruining Arlette's cover as a demon in disguise. Tolmi, lucky enough to hide underneath the overturned wagon, witnessed the whole thing. After Arlette and the demons left, Tolmi also left.  Later, as the party left the oasis to return to Rigahr, they encountered the destruction of the caravan and accounted for all dead except Arlette and Tolmi, though the sands had swept away evidence of where they had gone from here. In the streets of Rigahr they had a chance encounter with Arlette and aggressively cornered her in an alley. They suspected her but had no proof she wasn't a victim. She played her role well but would have been found out if the party hadn't been so damned aggressive and gotten the attention of the local constables. The party was promptly arrested and managed to escape custody to flee the city.
+
+Weeks later in Lexgate Casira spotted Tolmi the Magnificent briefly in the crowded streets.
