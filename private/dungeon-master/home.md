@@ -1,7 +1,7 @@
 <!-- TITLE: Dungeon Master -->
 <!-- SUBTITLE: A quick summary of Dungeon Master -->
 
-
+[Test](test)
 # Plots
 
 ## The Vengeance of Lua Maan and Gaffabraxis
