@@ -17,5 +17,8 @@
 * [The University](settlements/university)
 * [Tabohr Monastery](settlements/tabohr_monastery)
 ## Places of Power
+* [Laylines](places_of_power/laylines)
+* [Nexus](places_of_power/nexus)
+* [Wild Magic Zones](places_of_power/wild_magic)
 
 
