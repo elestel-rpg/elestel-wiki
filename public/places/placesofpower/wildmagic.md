@@ -3,7 +3,7 @@
 
 # Wild Magic Zones
 
-#### Wild Magic Surge
+## Wild Magic Surge Chart
 
 | 1d100 | Effect                                                       |
 | :---: | ------------------------------------------------------------ |
