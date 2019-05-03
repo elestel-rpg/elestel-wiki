@@ -4,7 +4,7 @@
 # Characters
 ## Fenius Flameheart
 #### Session Notes
-[2019/05/0](characters/fenius/fenius-notes-2019-05-04)
+[2019/05/04](characters/fenius/fenius-notes-2019-05-04)
 [2019/04/20](characters/fenius/fenius-notes-2019-04-20)
 [2019/03/23](characters/fenius/fenius-notes-2019-03-23)
 #### Personal Lore
