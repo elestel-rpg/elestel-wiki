@@ -3,5 +3,5 @@
 
 # 2019/05/04 Notes
 * Fen takes samples of demon ash from each corpse. 
-* Fenlootsorpsesifpossible
+* Fen loots corpses if possible
 * Fen asks Uri's old wartime partner about specifics on the demons she has faced in order to compare notes and make future demon encounters easier.  
