@@ -6,6 +6,13 @@
 ### Prep
 * Wrath [(player)](/things/wrath), [(dm)](/private/dungeon-master/things/wrath)
 
+#### The Current Situation
+* Big plot hooks right now
+	* Sarya's news about the original Arcadia Crew
+		* [Trello Notes](https://trello.com/c/HbGZtWxO/79-sarya-has-news-about-the-original-arcadia-crew)
+	* Arcane investigation of the Seals
+	* The last seal in the Dwarven empire
+
 ### Play Notes
 
 
