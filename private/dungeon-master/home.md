@@ -2,6 +2,13 @@
 <!-- SUBTITLE: A quick summary of Dungeon Master -->
 
 # Session Notes
+## 2019-05-04
+### Prep
+* [Hazirawn](/items/hazirawn)
+
+### Play Notes
+
+
 ## 2019-04-20
 * Trixie researches her own origin in the ships logs
 * Casira 
