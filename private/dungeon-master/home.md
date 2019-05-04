@@ -4,7 +4,7 @@
 # Session Notes
 ## 2019-05-04
 ### Prep
-* [Hazirawn](/items/hazirawn)
+* [Hazirawn](/things/hazirawn)
 
 ### Play Notes
 
