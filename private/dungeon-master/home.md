@@ -5,7 +5,7 @@
 ## 2019-05-04
 ### Prep
 * [Hazirawn (player) link](/things/hazirawn)
-* [Hazirawn (dm) link](/things/hazirawn)
+* [Hazirawn (dm) link](/private/dungeon-master/things/hazirawn)
 
 ### Play Notes
 
