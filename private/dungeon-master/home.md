@@ -8,12 +8,13 @@
 
 #### The Current Situation
 * Immediate aftermath of last session
-	* The party just killed [Arlette Pendersen](/public/people/npcs/arlette-pendersen) and resurrected [Tolmi The Magnificent](/public/people/npcs/tolmi-the-magnificent)
-* Big plot hooks right now
+	* The party just killed [Arlette Pendersen](/public/people/npcs/arlette-pendersen) and resurrected [Tolmi The Magnificent](/public/people/npcs/tolmi-the-magnificent). Corpses of defeated demons are turning to ash around them, including the corpse of Arlette. The only thing to survive the ash is [Wrath](/things/wrath), Arlette's longsword.
+	* In minutes the scene will be swarming with city watch, order of the gauntlet, and arcadia crew. 
+* Next prominant plot hooks
 	* Sarya's news about the original Arcadia Crew
 		* [Trello Notes](https://trello.com/c/HbGZtWxO/79-sarya-has-news-about-the-original-arcadia-crew)
 	* Arcane investigation of the Seals
-		* 
+		* *"The seals spell has a location component. To transfer the anchor from Uri to a new seal, it must be done in the location that the original spell was cast."*
 	* The last seal in the Dwarven empire
 
 ### Play Notes
