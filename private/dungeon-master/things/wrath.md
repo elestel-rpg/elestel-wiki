@@ -1,9 +1,9 @@
 <!-- TITLE: Hazirawn -->
 <!-- SUBTITLE: A quick summary of Hazirawn -->
 
-# Hazirawn
+# Wrath
 
-[Hazirawn Stats](/things/hazirawn)
+[Wrath Stats](/things/wrath)
 
 * Not aligned with any Devils or Demons.
-* Personality is friendly, cooperative.
+* Out of combat, personality is friendly, cooperative.
