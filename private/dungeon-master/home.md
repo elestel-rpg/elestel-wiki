@@ -7,10 +7,13 @@
 * Wrath [(player)](/things/wrath), [(dm)](/private/dungeon-master/things/wrath)
 
 #### The Current Situation
+* Immediate aftermath of last session
+	* The party just killed [Arlette Pendersen](/public/people/npcs/arlette-pendersen) and resurrected [Tolmi The Magnificent](/public/people/npcs/tolmi-the-magnificent)
 * Big plot hooks right now
 	* Sarya's news about the original Arcadia Crew
 		* [Trello Notes](https://trello.com/c/HbGZtWxO/79-sarya-has-news-about-the-original-arcadia-crew)
 	* Arcane investigation of the Seals
+		* 
 	* The last seal in the Dwarven empire
 
 ### Play Notes
