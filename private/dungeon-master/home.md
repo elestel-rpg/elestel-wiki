@@ -4,7 +4,8 @@
 # Session Notes
 ## 2019-05-04
 ### Prep
-* [Hazirawn](/things/hazirawn)
+* [Hazirawn (player) link](/things/hazirawn)
+* [Hazirawn (dm) link](/things/hazirawn)
 
 ### Play Notes
 
