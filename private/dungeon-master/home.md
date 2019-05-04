@@ -4,8 +4,8 @@
 # Session Notes
 ## 2019-05-04
 ### Prep
-* [Hazirawn (player) link](/things/hazirawn)
-* [Hazirawn (dm) link](/private/dungeon-master/things/hazirawn)
+* [Wrath (player) link](/things/wrath)
+* [Wrath (dm) link](/private/dungeon-master/things/wrath)
 
 ### Play Notes
 
