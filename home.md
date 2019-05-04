@@ -17,13 +17,17 @@ This is a place to propose or state naming conventions and other sundry policies
 # People
 
 [PCs](public/people/player-characters)
-
 [NPCs](public/people/npcs)
 
 # Places
+
 [Elestel](public/places/elestel)
 [The Starship Arcadia](public/places/arcadia)
+
+# Things
+
 # Lore
+
 [Pantheon](public/lore/pantheon)
 [Astrology](public/lore/astrology)
 [Calendar](public/lore/calendar)
