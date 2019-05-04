@@ -4,8 +4,7 @@
 # Session Notes
 ## 2019-05-04
 ### Prep
-* [Wrath (player) link](/things/wrath)
-* [Wrath (dm) link](/private/dungeon-master/things/wrath)
+* Wrath [(player)](/things/wrath), [(dm)](/private/dungeon-master/things/wrath)
 
 ### Play Notes
 
