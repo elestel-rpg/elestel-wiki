@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Header
-(whatever)[folder]
+[whatever](folder)
