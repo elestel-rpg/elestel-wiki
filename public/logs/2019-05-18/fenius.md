@@ -40,7 +40,7 @@ Seeing Casira's willingness to follow this stranger's lead, I practiced my own d
 
 In preparation for the trip, I contacted the Arch Bishop, informing him of our plans to rescue Casira's "relatives." I was shocked to find out he wanted to meet us there, dragging his squire headlong into pointless danger, which is to say I was in no way surprised.
 
-After a days travel upriver, we disembarked and followed the road North. We noticed that not far beyond the port town the trees alongside the road began to look sickly.  Not long into the day, we came upon the smoking ruins of the sought-after wagon. The entire area stank of demon sign, being the aftermath of a battle the fiends had clearly lost. A full dozen extra-planar corpses of the fiendish kind littered the area along with many beasts. I saw at least four unique kinds of netherbeing present among the dead. Mindful of my purpose, I set about collecting sampless. You never know when the horn of a horned devil might come in handy.
+After a days travel upriver, we disembarked and followed the road North. We noticed that not far beyond the port town the trees alongside the road began to look sickly.  Not long into the day, we came upon the smoking ruins of the sought-after wagon. The entire area stank of demon sign, being the aftermath of a battle the fiends had clearly lost. A full dozen extra-planar corpses of the fiendish kind littered the area along with many beasts. I saw at least four unique kinds of netherbeing present among the dead. Mindful of my purpose, I set about collecting samples. You never know when the horn of a horned devil might come in handy.
 
 Casira soon found the tracks of a survivor, and we followed her into the woods. Normally, this would be the sign of an utter fool. Why would you follow creatures that had clearly destroyed a pack of fiends?  And this would be a good thought for average folk. They should stay locked in their shabby hovels, afraid of the world, quaking in the dark at every passing sound. It is left to ones such as I to vanquish those threats and be lauded by the unwashed masses, as they grovel before me!
 
@@ -70,23 +70,14 @@ In little time we came upon a glade dominated by an ancient tree spreading its c
 
 In short order we learned her name was "The Mother."  Yes, a name even more pretentious than the standard of her kind, which unsurprisingly was elf. I considered her advanced age and wondered how many innocents had been sacrificed to her centuries. One day I would crack that mystery.
 
-She welcomed us into her tree house. Within we found Casira's family awaited, and there was much rejoicing among them. I would have joined in under the hope of eventual inebriation, but something I saw gave me a bit more than pause. The place was overrun with a swarm of unnaturally tame tree rats, so-called "squirrels." And they were *playing* with Casira's niece! Dear reader, you know I am a master of the ways of the fiend. However, I tell you this: little is as disturbing as seeing a lower creature whose natural inclination should be to fear and run from superior being so warped that instead of run it enjoys playtime.  Appalling doesn't cover it. And then, to my distress, Jubjub, the Captains familiar being, *joined in!* 
+She welcomed us into her tree house. Within we found Casira's family awaited, and there was much rejoicing among them. I would have joined in under the hope of eventual inebriation, but something I saw gave me a bit more than pause. The place was overrun with a swarm of unnaturally tame tree rats, so-called "squirrels." And they were *playing* with Casira's niece! Dear reader, you know I am a master of the ways of the fiend. However, I tell you this: little is as disturbing as seeing a lower creature whose natural inclination should be to run in fear from a superior being so warped that instead of fleeing it enjoys playtime.  Appalling doesn't cover it. And then, to my distress, Jubjub  *joined in!* 
 
 My skin crawled. The desire to burn the entire tree down roiled up in me, but there is a difference between power and madness, and I dared not invoke the ire of an arch druid.
 
 Casira related our story and present struggles to The Mother, and she seemed moved. She said she could offer little in the way of aide, but she conferred upon Trixie her late sister's monk wraps, the surface of the white cloth splotched with ancient blood stains. 
 
-The Mother even offered to save Casira the trouble of looking after her own family, as she offered to train Lilandra and protect her niece.
+The Mother even saved Casira the trouble of looking after her own family, as she offered to train Lilandra and protect her niece.
 
 In an admittedly unnatural moment I spoke up, "Yes, this is all *very* nice. But we really must be going. Dragons to find, peasant-riddled world to save, yes?"  I eyed a tree rat trying to cozy up to my feet, and I nearly kicked it before remembering how vicious its mother might become should I mist one of her furry slaves.
 
 Finally, we managed to flee, and in short order we made it beyond the borders of The Mother's more obvious power. I was finally able to sleep, safe in the knowledge that I wouldn't be forced to share my bedroll with a mesmerized rodent or two. 
-
-
-
-### notes
-
-`Jubjub's attempts to steal from Corril. Trixie's wraps`
-
-`3 types of devil/demon, 8 in total  
-a dozen fiend corpses encompassing 4 or so types` 
