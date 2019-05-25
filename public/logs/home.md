@@ -2,8 +2,8 @@
 
 # Off the Rails!
 Adventure Summary: https://www.dndbeyond.com/campaigns/16353
-## April 6th 2019
-[Placeholder!](2019-04-06/fenius)
+## May 18th 2019
+[Payback is a *Mother!*!](2019-05-18/fenius)
 
 ## January 28th 2019
 [A letter "home" (Casira)](2019-01-28/casira)
