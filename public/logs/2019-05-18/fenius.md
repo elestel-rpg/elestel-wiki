@@ -1,4 +1,4 @@
-<!-- TITLE: Payback is a _Mother!_ -->
+<!-- TITLE: Payback is a Mother! -->
 <!-- SUBTITLE: A quick summary of Fenius -->
 
 Payback is a Mother!
