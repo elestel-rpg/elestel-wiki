@@ -11,7 +11,7 @@
 [Shattered Edge Mountains](regions/shattered-edge-mountains)
 [Sea of Arcanis](regions/sea-of-arcanis)
 * [Valwynne](regions/valwynne)
-* [The Fae Wild](regions/fae_wild)
+* [The Feywild](regions/feywild)
 
 ## Settlements
 [Maelhaven](settlements/maelhaven)
