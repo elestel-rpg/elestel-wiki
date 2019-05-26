@@ -16,7 +16,7 @@ Where the Adventure Log is a narative-focused record of party travels, these are
 * [January 26th 2019](2019-01-26)
 * [January 12th 2019](2019-01-12)
 * [December 19th 2018](2018-12-19)
-* [October 17th 2017 - December 15th 2018](2017-10-17_2018-12-15)
+* [October 13th 2017 - December 15th 2018](2017-10-13-2018-12-15)
 
 ## One Shots
 When something happens in a one shot that has implications for any ongoing campaign, place those notes here.
