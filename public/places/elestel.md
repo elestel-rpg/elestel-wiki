@@ -16,7 +16,7 @@
 [Maelhaven](settlements/maelhaven)
 * [The University](settlements/university)
 * [Tabohr Monastery](settlements/tabohr_monastery)
- [Demrim](settlements/demrim)
+[Demrim](settlements/demrim)
 ## Places of Power
 * [Laylines](places_of_power/laylines)
 * [Nexus](places_of_power/nexus)
