@@ -22,9 +22,9 @@ Hours later I made for the deck of the *Arcadia* in order to sample the putrid a
 
 But I digress.
 
-Upon reaching the deck, I found a clearly insane and incoherent elf (i.e. "life stealer") going on about how he had to see Casira. He claimed his name was Corril, the supposed uncle of Casira's newly-formed essence-purloining niece, Lilly. Quaint how they take the names of the shortest lived creatures, isn't it? All the more reason to distrust the mad being. Even the Captain's talking dog, Jubjub, had attached himself to the madman, clearly suspecting trouble. Why else would he seek to search him and confiscate his belongings? I didn't disagree with the tactic. When the final confrontation came, best to have your foe unwittingly disarmed.
+Upon reaching the deck, I found a clearly insane and incoherent elf (i.e. "life stealer") going on about how he had to see Casira. He claimed his name was Corril, the supposed uncle of Casira's sister-in-law, Lilly. Quaint how they take the names of the shortest lived creatures, isn't it? All the more reason to distrust the mad being. Even the Captain's talking dog, Jubjub, had attached himself to the madman, clearly suspecting trouble. Why else would he seek to search him and confiscate his belongings? I didn't disagree with the tactic. When the final confrontation came, best to have your foe unwittingly disarmed.
 
-"There is a family emergency!" quoth he, claiming that Lilandra and Casira's niece had gone missing. Well, apart from his other disreputable characteristics, his ability to find our Casira with such apparent ease sparked suspicion in me. And how had he made up so much time getting to us by either cart or skiff? 
+"There is a family emergency!" quoth he, claiming that Lilandra and Casira's niece and nephew, Amara and Valus, had gone missing. Well, apart from his other disreputable characteristics, his ability to find our Casira with such apparent ease sparked suspicion in me. And how had he made up so much time getting to us by either cart or skiff? 
 
 His status uncertain, I immediately put him to the Question. Not being a cruel sort and ever the gracious host, I informed him in passing that the ship was a death trap, but he should follow me. I was both curious to see his reaction and to find out if the ship would take my blatant offering of a quick meal and thus ensure our future mystical locomotion. I was disappointed at the lack of wailing and gnashing of teeth. Again, I noted the incredible efficiency of the vessel's soul burning engines. Rarely had I seen finer mystic equipage!
 
@@ -34,7 +34,7 @@ Sadly, my tests were interrupted by the crone, Sarya. No sooner had she seen the
 
 Upon meeting the possible imposer, Casira was taken in as surely as Sarya.  She seemed to recognize him and just believe everything. Oh, you just happened to *conveniently* follow your relatives later and just *happened* to find their empty wagon? It smelled like a trap. You never know with life-stealers. For one thing, Casira has fiendish blood. I know how potent such things can be. Never mind that he could truly be anyone, as I knew well from personal experience. We hadn't even compelled a confession yet! Not even one travail of the soul. Where's the use in that, I ask you, my humble readers?
 
-For a moment I thought the Captain would be the voice of reason, forestalling this madness. But I was disappointed when Jubjub's machinations with the man's purse simply provided a pretext to assuage the Captain's mercenary instincts in a bid to *do good* or some such. He had Corril pay him back his own platinum piece placed the man's purse by his familiar and then he agreed to the mission! I was aghast, but I  held my reaction in check. 
+For a moment I thought the Captain would be the voice of reason, forestalling this madness. But I was disappointed when Jubjub's machinations with the man's purse simply provided a pretext to assuage the Captain's mercenary instincts in a bid to *do good* or some such. He had Corril pay him back his own silver piece placed the man's purse by his familiar and then he agreed to the mission! All this after giving the stranger a full platinum as change. I was aghast, but I  held my reaction in check. 
 
 Seeing Casira's willingness to follow this stranger's lead, I practiced my own due diligence by going along to watch him. You can never be too careful. A fiend-begotten woman's blood might be quite tempting to certain folk.
 
@@ -81,3 +81,16 @@ The Mother even saved Casira the trouble of looking after her own family, as she
 In an admittedly unnatural moment I spoke up, "Yes, this is all *very* nice. But we really must be going. Dragons to find, peasant-riddled world to save, yes?"  I eyed a tree rat trying to cozy up to my feet, and I nearly kicked it before remembering how vicious its mother might become should I mist one of her furry slaves.
 
 Finally, we managed to flee, and in short order we made it beyond the borders of The Mother's more obvious power. I was finally able to sleep, safe in the knowledge that I wouldn't be forced to share my bedroll with a mesmerized rodent or two. 
+
+
+
+### notes
+
+`Jubjub's attempts to steal from Corril. Trixie's wraps`
+
+`3 types of devil/demon, 8 in total  
+a dozen fiend corpses encompassing 4 or so types`
+
+`Lilandra is Casira's sister in law, Lilandra is Corril's niece. Vulas, Lilandra and Amara all disappeared.  Amara, Casira's actual 8 year old niece, was playing with the chipmunks`
+
+`Lilandra is Casira's sister in law, Lilandra is Corril's niece. Vulas, Lilandra and Amara all disappeared.  Amara, Casira's actual 8 year old niece, was playing with the chipmunks`
