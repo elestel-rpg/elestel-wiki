@@ -2,12 +2,9 @@
 <!-- SUBTITLE: A quick summary of Dungeon Master -->
 
 # Session Notes
+* [2019-06-01](sessions/20190601)
+* [2019-05-18](sessions/20190518)
 * [2019-05-04](sessions/20190504)
-
-
-## 2019-04-20
-* Trixie researches her own origin in the ships logs
-* Casira 
 
 # Plots
 
