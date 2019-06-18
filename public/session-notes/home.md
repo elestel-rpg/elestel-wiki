@@ -21,3 +21,6 @@ Where the Adventure Log is a narative-focused record of party travels, these are
 
 ## One Shots
 When something happens in a one shot that has implications for any ongoing campaign, place those notes here.
+
+### Asher: Hidden Gate
+* [The Contract](2019-06-15-asher-contract)
