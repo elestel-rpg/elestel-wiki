@@ -27,6 +27,7 @@
 [Ilezira](npcs/ilezira)
 [Jaques Macleary](npcs/jaques-macleary)
 [Juventus Luppiter](npcs/juventus-luppiter)
+[Kisara](npcs/kisara)
 [Liri Keyfaren](npcs/liri-keyfaren)
 [Lua Maan](npcs/lua-maan)
 [Mac Fleetwood](npcs/mac-fleetwood)
