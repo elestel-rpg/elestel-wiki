@@ -1,7 +1,7 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-Andramia notes:
+## Andramia notes:
 Adramia and Uri met when she came to the Library (at age 113) after spending time at her family estate
 
 Andramia served under Uri Thaloma as his first and so far only apprentice.
@@ -14,3 +14,12 @@ The story of her punishment became a tale to future apprentices, something newer
 After her ascension the two continued to work together and developed a close friendship although Andramia still shows a tendency toward deference toward her former master and at times will unconsciously slip into the master/apprentice role with Uri much to the amusement of both of them when it happens
 
 She is well versed in the curse that sits upon Uri and has worked with him to understand it and someday break it
+
+## Monastery Notes:
+Tabohr Monastery was built on the edge of the white cliffs that span the western shores of Valwynne. It consists of one large and sturdy stone keep, six stories tall, built directly on the edge of the cliff. Immediately around it there are several smaller single story outbuildings tightly packed with a small courtyard between them. Surrounding all of this is a curtain wall two stories tall with ramparts and four towers — one built on the edge of the cliff on each side of the keep and two more evenly spaced along the walls between. When the keep was originally built, the region was considered remote and untamed so such protection was necessary to protect the monks and the library within. As the town of Maelhaven grew around the monastery, the university was founded immediately outside the monastery walls and eventually surrounded and dwarfed the monastery in terms of occupied land, though none of the university buildings are larger than two stories tall.
+
+Originally, the monastery only consisted of the keep and walls, but as the library within the keep grew, the monks were forced to sacrifice more and more space within the keep to the library. The outbuildings within the walls of the monastery were constructed to house the living quarters, offices, main hall, and recreational spaces of the monks.
+
+The library itself fills the keep quite literally. Shelves line every wall and free-standing shelves fill the space between leaving narrow corridors to move through. All shelves reach floor to ceiling and are well organized but tightly packed. One area, just inside the main entrance on the first floor, contains several long tables for visitors to use while browsing through books.
+
+In the early days of the library, before the University was built, the 6th floor was restricted to the public and held the most dangerous and rare books and scrolls. Over the centuries as the library grew, the University library took responsibility for the more common and mundane tomes as the collection of rare and dangerous material outgrew the 6th floor. And the 5th. And 4th. And 3rd floors as well. Now only the first and second floors of the keep are open to the public, but now even these floors tend to contain the most advanced and rare books. Seekers granted access to the library are always escorted by a monk who assists them in finding what they are looking for and ensures they don’t attempt to enter the restricted floors, don’t use flame for light, and don’t write on or otherwise damage the books within the library.
