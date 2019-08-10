@@ -1,5 +1,5 @@
-<!-- TITLE: Theuniversity -->
-<!-- SUBTITLE: A quick summary of Theuniversity -->
+<!-- TITLE: The University -->
+<!-- SUBTITLE: A quick summary of The University -->
 
 The University, known the world over simply as The University, sits at the heart of the city of Maelhaven in Valwynne. As the town supporting Tabohr Monastery grew into a city, the University was formed to serve its growing population. Over time the University grew to surround and ultimately dwarf the old monastery.
 
