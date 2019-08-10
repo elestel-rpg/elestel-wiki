@@ -22,6 +22,13 @@ This is a place to propose or state naming conventions and other sundry policies
 # Places
 
 [Elestel](public/places/elestel)
+[Rore](public/places/rore)
+[Valwynne](public/places/valwynne)
+[Maelhaven](public/places/maelhaven)
+[The University](public/places/the_university)
+[Tabhor Monastery](public/places/tabhor_monastery)
+[Graycott](public/places/graycott)
+[Demrim](public/places/demrim)
 [The Starship Arcadia](public/places/arcadia)
 
 # Things
