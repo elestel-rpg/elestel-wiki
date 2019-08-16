@@ -7,6 +7,6 @@ The monastery consists of 6 Orders each with different responsibilities toward t
 [Order of Arcanum](public/places/tabhormonastery/order_arcanum)
 [Order of Nature](public/places/tabhormonastery/order_nature)
 [Order of Religion](public/places/tabhormonastery/order_religion)
-Order of Secrets
-Order of Combat
-Order of Field Research and Recovery
+[Order of Secrets](public/places/tabhormonastery/order_secrets)
+[Order of Combat](public/places/tabhormonastery/order_combat)
+[Order of Field Research and Recovery](public/places/tabhormonastery/order_frar)
