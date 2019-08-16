@@ -6,7 +6,7 @@ Tabohr Monastery is located at the heart of The University in Maelhaven and is t
 The monastery consists of 6 Orders each with different responsibilities toward the Library:
 [Order of Arcanum](public/places/tabhormonastery/order_arcanum)
 [Order of Nature](public/places/tabhormonastery/order_nature)
-Order of Religion
+[Order of Religion](public/places/tabhormonastery/order_religion)
 Order of Secrets
 Order of Combat
 Order of Field Research and Recovery
