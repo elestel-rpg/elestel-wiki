@@ -1,5 +1,5 @@
-<!-- TITLE: Ordernature -->
-<!-- SUBTITLE: A quick summary of Ordernature -->
+<!-- TITLE: Order of Nature -->
+<!-- SUBTITLE: A quick summary of Order of Nature -->
 
 This group studies the natural world and the inner workings of nature. This is the order most likely to include druidic studies and Druids as members as well as academics and other students of the natural order. This group often works closely with the University for research purposes but unlike Arcanum it does not often teach but instead recruits druid apprentices from the University
 
