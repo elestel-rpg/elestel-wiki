@@ -1,5 +1,5 @@
 <!-- TITLE: Order of Arcanum -->
-<!-- SUBTITLE: A quick summary of Orderarcanum -->
+<!-- SUBTITLE: A quick summary of Order of Arcanum -->
 
 This group is dedicated to all lore related to arcane magic, its development, creations, and use. This group is one of two ( The Order of Nature) that regularly partners with the University and shares knowledge and resources. Some member’s work jointly in the monastery and in the university as teachers. Other members of this orders create spell scrolls to sell to other practitioners as a source of income for the Monastery
 
