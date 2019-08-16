@@ -49,6 +49,7 @@ Sea, and of Rulers Tempest, Nature CG
 Name Unknown Wyrm of The Unnamed
 Far Realms, Travelers, and Shapeshifters Knowledge, Trickery N
 
+First Brood:
 Zuluminox Wyrm of Feror 
 Night and Ice Death LE
 
