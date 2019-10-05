@@ -29,6 +29,7 @@ This is a place to propose or state naming conventions and other sundry policies
 [Tabhor Monastery](public/places/tabhor_monastery)
 [Graycott](public/places/graycott)
 [Demrim](public/places/demrim)
+[Leviarem](public/places/leviarem)
 [The Starship Arcadia](public/places/arcadia)
 
 # Things
