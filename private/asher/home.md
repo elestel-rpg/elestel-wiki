@@ -24,6 +24,14 @@ The library itself fills the keep quite literally. Shelves line every wall and f
 
 In the early days of the library, before the University was built, the 6th floor was restricted to the public and held the most dangerous and rare books and scrolls. Over the centuries as the library grew, the University library took responsibility for the more common and mundane tomes as the collection of rare and dangerous material outgrew the 6th floor. And the 5th. And 4th. And 3rd floors as well. Now only the first and second floors of the keep are open to the public, but now even these floors tend to contain the most advanced and rare books. Seekers granted access to the library are always escorted by a monk who assists them in finding what they are looking for and ensures they don’t attempt to enter the restricted floors, don’t use flame for light, and don’t write on or otherwise damage the books within the library.
 
+## Uri's Siblings
+Merrod and Ke’syr’ess – deceased during the war
+Kisara – established
+
+Ramoth – She was physically the largest and most imposing of the group and large by Brass Dragons standards. Despite that she was a gentle soul with a nurturing personality. She could go from gentle giant to fierce protector in a heartbeat. She preferred to spend time around the young of all species, telling stories and caring for them. During the war she acted as a healer (or medical transport if needed) near the front and behind the lines. In the family she was closest to Merrod. Outside she was closest to her students that she taught healing. Due to her time around the truly young and or pupils she had a tendency to come across as lecturing when amongst equals
+
+Gojira – Or “Goji” to those who want to annoy him. He is your “dragons dragon”. He is proud and arrogant (notice I left off greedy), seeing himself as the top of the food chain. He is quick to anger but quick to forgive. To those close he is a fierce protector. To those against he is a dauntless adversary. He values decorum and propriety in others as well as himself so he is unlikely to be condescending when met with respect seeing that type of behavior as beneath him and his superior status (basically he is polite out of sense of smugness). During the war he led a unit of dragons (and some riders), including Kisara, in cavalry raids behind the lines. Hitting quick and retreating back behind the lines during the confusion.
+
 ## Dragon Notes
 ### First Dragons
 At the foundation of Elestel, the gods infused shards of power and manifested them into the mortal world. From them sprung the firstborn beings of the gods, the Great Wyrms, progenitors dragonkind. In the primordial epochs, before man or beast saw its first dawn, these fearsome wyrms formed the world in the wake of their battles, carving out the mountains and filling the seas as they warred. These are their names.
