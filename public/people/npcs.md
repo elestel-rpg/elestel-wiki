@@ -20,6 +20,7 @@
 [Fobrawynn Flatmane](npcs/fobrawynn-flatmane)
 [Fotios Aris](npcs/fotios-aris)
 [Fyn Blacktree](npcs/fyn-blacktree)
+[Garrai son of Gary](npcs/garrai-son-of-gary)
 [General Raddith](npcs/general-raddith)
 [Gilli Gan](npcs/gilli-gan)
 [Henry](npcs/henry)
