@@ -16,6 +16,8 @@ At some point growing up she spent time around Hippogryphs and knows about the p
 
 She is currently stationed on Stardust’s ship and is working to fix the ship and act as a go between for communications with her master
 
+![Sarya Large Image](/uploads/sidekicks/sarya-large-image.jpeg "Sarya Large Image")
+
 Background:
 
 Sarya Glynlee, Wood Elf of Aendrilad, approached the front steps of The University, the Beacon of Maelhaven. Her aching feet forgotten, she gazed wide eyed with wonder at of the possibilities that lay before her. She had traveled so long, endured so much to get here. She didn’t waste a second as she rushed up the steps and into the admissions office.
