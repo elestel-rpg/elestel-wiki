@@ -32,7 +32,7 @@ This is a place to propose or state naming conventions and other sundry policies
 [Leviarem](public/places/leviarem)
 [The Starship Arcadia](public/places/arcadia)
 [Lexgate](public/places/lexgate)
-[Culverton](public/places/culverton)
+[Culverston](public/places/culverston)
 
 # Things
 
