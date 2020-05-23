@@ -1,11 +1,14 @@
 <!-- TITLE: Session Notes -->
+
 <!-- SUBTITLE: who, what, when, where, and how much? -->
 
 # Session Notes
+
 Where the Adventure Log is a narative-focused record of party travels, these are the raw party notes for each session. Where did the session start? Who went where and why? Who did you encounter, what did you see and learn? Where did the session leave the party? Anything you want to remember for future reference should end up here. Each session should only get one page below for the party to pool their notes. A character's perception, feelings, and plans do _not_ go here as those are subjective and usually private to the character. This is _just the facts._ 
 
 ## Off the Rails!
 
+* [May 23th  2020](2020-05-23.md)
 * [May 16th  2020](2020-05-16.md)
 * [April 25th  2020](2020-04-25.md)
 * [April 18th  2020](2020-04-18)
@@ -39,7 +42,9 @@ Where the Adventure Log is a narative-focused record of party travels, these are
 * [October 13th 2017 - December 15th 2018](2017-10-13-2018-12-15)
 
 ## One Shots
+
 When something happens in a one shot that has implications for any ongoing campaign, place those notes here.
 
 ### Asher: Hidden Gate
+
 * [The Contract](2019-06-15-asher-contract)
