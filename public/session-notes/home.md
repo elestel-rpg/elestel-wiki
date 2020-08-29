@@ -8,6 +8,7 @@ Where the Adventure Log is a narative-focused record of party travels, these are
 
 ## Off the Rails!
 
+* [August 29th  2020](2020-08-29.md)
 * [August 15th  2020](2020-08-15.md)
 * [August 1st  2020](2020-08-01.md)
 * [July 18th  2020](2020-07-18.md)
